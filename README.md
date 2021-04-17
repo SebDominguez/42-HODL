@@ -34,7 +34,7 @@ Now position the punch after double checking that you have orientation correct
 
 ![Tape the washer on the base](./img/5.png)
 
-Now give it a gentle kiss with your hammer (no need to go full force strong guy, if you wrape the washer it's signe that you are doing it wrong)
+Now give it a gentle kiss with your thumb detector (no need to go full force strong guy, if you wrape the washer it's signe that you are doing it wrong)
 
 ![Tape the washer on the base](./img/6.png)
 
