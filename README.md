@@ -24,34 +24,34 @@ First use the loop tape trick to secure the washer so it stand still while we pu
 
 Place the base of the 3D printed jig on top of the washer
 
-![Tape the washer on the base](./img/3.png)
+![Place the jig on top of the washer](./img/3.png)
 
 Place the top part of the jig in the first position so we can write down the number of the seed (01)
 
-![Tape the washer on the base](./img/4.png)
+![Place the top part of the jig](./img/4.png)
 
-Now position the punch after double checking that you have orientation correct
+Now position the punch inside the punch hole after double checking that you have orientation correct.
 
-![Tape the washer on the base](./img/5.png)
+![Place the punch inside the punch hole](./img/5.png)
 
 Now give it a gentle kiss with your thumb detector (no need to go full force strong guy, if you wrape the washer it's signe that you are doing it wrong)
 
-![Tape the washer on the base](./img/6.png)
+![Check the disaster](./img/6.png)
 
 See how easy it is?
 
 Let's continiue
 
-![Tape the washer on the base](./img/7.png)
+![Punch the hole word](./img/7.png)
 
 Nice! Now repeate this 23 times...
 
 When you are donzo just bolt the washers togethers
 
-![Tape the washer on the base](./img/8.png)
+![Bolt the nuts together](./img/8.png)
 
 And put them in the capsule
 
-![Tape the washer on the base](./img/9.png)
+![Close the capsule](./img/9.png)
 
 And... **HODL**
