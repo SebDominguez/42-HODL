@@ -1,4 +1,4 @@
-# 42HODL
+# 42 HODL
 
 ## Get everything ready
 
@@ -18,7 +18,7 @@
 
 ## Let's whack some washers!
 
-First use the loop tape trick to secure the washer so it stand still while we punch him
+First use the loop tape trick to secure the washer so it stands still while we punch him
 
 ![Tape the washer on the base](./img/2.png)
 
@@ -30,23 +30,23 @@ Place the top part of the jig in the first position so we can write down the num
 
 ![Place the top part of the jig](./img/4.png)
 
-Now position the punch inside the punch hole after double checking that you have orientation correct.
+Now position the punch inside the punch hole after double checking that you have the correct orientation.
 
 ![Place the punch inside the punch hole](./img/5.png)
 
-Now give it a gentle kiss with your thumb detector (no need to go full force strong guy, if you wrape the washer it's signe that you are doing it wrong)
+Now give it a gentle kiss with your thumb detector (no need to go full force strong guy, if you warp the washer it's  a sign that you are doing it wrong)
 
 ![Check the disaster](./img/6.png)
 
 See how easy it is?
 
-Let's continiue
+Let's continue
 
 ![Punch the hole word](./img/7.png)
 
-Nice! Now repeate this 23 times...
+Nice! Now repeat this 23 times...
 
-When you are donzo just bolt the washers togethers
+When you are donzo just bolt the washers together with the Allan key and the wrench
 
 ![Bolt the nuts together](./img/8.png)
 
@@ -55,3 +55,4 @@ And put them in the capsule
 ![Close the capsule](./img/9.png)
 
 And... **HODL**
+
