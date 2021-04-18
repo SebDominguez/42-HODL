@@ -1,12 +1,17 @@
 # 42 HODL
 
+Do you have the 42 HODL kit yet?
+
+[Order your kit on Tindie :paw_prints:](https://www.tindie.com/products/23365/)
+
+
 ## Get everything ready
 
 ![List of tools](./img/1.png)
 
 1. Punch set stamp with 3mm letter height ([buy it on Amazon](https://www.amazon.es/s?k=B081V4BVPG))
 2. 3D printed jig ([Download it from Thingivers](https://www.thingiverse.com/thing:4830238))
-3. Nice metal base
+3. Nice metal base (any thing hard and flat will work)
 4. Your backup seed (plz don't steal my DOGE coins)
 5. Tape
 6. Washers
@@ -54,5 +59,11 @@ And put them in the capsule
 
 ![Close the capsule](./img/9.png)
 
-And... **HODL**
+# And... **HODL**
+
+*Did you enjoyed the ride?*
+
+[*Please consider supporting me with a coffee :coffee:*](https://www.buymeacoffee.com/SebDominguez)
+
+
 
